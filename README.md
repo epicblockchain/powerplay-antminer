@@ -1,5 +1,5 @@
 # powerplay-antminer
-UMC firmware for running on Antminer rigs 
+UMC firmware for Antminer rigs 
 
 ## Supported rigs:
 - S19jPro
