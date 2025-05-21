@@ -11,4 +11,6 @@ UMC firmware for Antminer rigs
 - S19j XP
 - S21
 - S21 Pro
+- S21 XP
+- S21+
 - T21
