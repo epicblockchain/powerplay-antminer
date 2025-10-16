@@ -13,7 +13,7 @@ UMC firmware for Antminer rigs
 | S19j Pro+  | - BHB42611<br> - BHB42612                                                                                           |
 | S19k Pro   | - BHB56901<br> - BHB56902<br> - BHB56903                                                                            |
 | S21        | - BHB68601<br> - BHB68603<br> - BHB68606                                                                            |
-| S21 Pro    | - A3HB70601                                                                                                         |
-| S21 XP     | - A3HB70501                                                                                                         |
-| S21+       | - A3HB70701                                                                                                         |
+| S21 Pro    | - A3HB70601<br> - A3HB70602                                                                                         |
+| S21 XP     | - A3HB70501<br> - A3HB70502<br> - A3HB70503                                                                         |
+| S21+       | - A3HB70701<br> - A3HB70702<br> - A3HB70703                                                                         |
 | T21        | - BHB68701<br> - BHB68703                                                                                           |
